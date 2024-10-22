@@ -18,4 +18,10 @@ Hello, I am studying the technology that helps human’s health.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=minsulee33&theme=flat&column=9)](https://github.com/minsulee33/) -->
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj={minsulee33})](https://solved.ac/{minsulee33})
+<!--
+<div align="center">
+  <a href="https://solved.ac/minsulee33">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minsulee33" />
+  </a>
+</div>
+-->
