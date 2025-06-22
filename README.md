@@ -8,7 +8,7 @@ I’m passionate about leveraging technology to improve human health through dee
 
 - B.S. candidate in the Department of Biomedical Engineering
 - Undergraduate Researcher at the Konyang Medical Data Research Group (KYMERA)
-- VISIT [minsulee.com](https://www.minsulee.com)
+- VISIT <a href="https://www.minsulee.com" target="_blank">minsulee.com</a>
 
 ---
 
@@ -16,7 +16,7 @@ I’m passionate about leveraging technology to improve human health through dee
 
 Here are some of my key projects. Feel free to explore the repositories for more details:
 
-- [CXR-to-Radiology-Report](https://github.com/lee-minsu1/CXR-to-Radiology-Report)  
+- <a href="https://github.com/lee-minsu1/CXR-to-Radiology-Report" target="_blank">CXR-to-Radiology-Report</a>  
   Generating structured radiology reports from chest X‑ray images using CLIP, GPT-2, and RAG techniques.
 
 
