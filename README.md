@@ -16,7 +16,7 @@ I’m passionate about leveraging technology to improve human health through dee
 
 Here are some of my key projects. Feel free to explore the repositories for more details:
 
-- [CXR-to-Radiology-Report](https://github.com/minsulee33/CXR-to-Radiology-Report)  
+- [CXR-to-Radiology-Report](https://github.com/lee-minsu1/CXR-to-Radiology-Report)  
   Generating structured radiology reports from chest X‑ray images using CLIP, GPT-2, and RAG techniques.
 
 
